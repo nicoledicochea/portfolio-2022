@@ -32,6 +32,22 @@ Version: 1.0
 * Footer Area
 */
 
+/* socials */
+
+.socials {
+    padding: 40px;
+}
+
+.socials a {
+    padding: 20px;
+    color: white;
+}
+
+.socials a:hover {
+    color: #ffc107;
+}
+
+
 /*============Glogbal Style================ */
 html,
 body {
